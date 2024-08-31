@@ -14,5 +14,11 @@ Lab Activity 1: Overview of Machine Learning Applications
 ![OIP (1)](https://github.com/user-attachments/assets/e8a9f5b6-37f2-4d91-b167-430a173d1f7b)
 ![download (1)](https://github.com/user-attachments/assets/bef99335-8fed-4a92-8a50-137fce789c07)
 
-*Applications 
-    - 
+*Applications* 
+1. *Crop Monitoring and Yield Prediction*
+    Utilizing ML models to monitor crop health and predict yields by analyzing data from various sources like satellite imagery, sensors, and weather data.
+   
+*Applications:*
+ - Disease and Pest Detection: Early identification of crop diseases and pest infestations to implement timely interventions.
+ - Optimal Resource Usage: Advising on efficient use of water, fertilizers, and pesticides based on predictive analytics.
+ - Yield Forecasting: Estimating crop yields to assist farmers in planning and market strategy development.
