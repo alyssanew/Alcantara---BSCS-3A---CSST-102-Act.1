@@ -15,7 +15,7 @@ Lab Activity 1: Overview of Machine Learning Applications
 ![download (1)](https://github.com/user-attachments/assets/bef99335-8fed-4a92-8a50-137fce789c07)
 
 *Applications* 
-1. **Crop Monitoring and Yield Prediction**
+**Crop Monitoring and Yield Prediction**
     Utilizing ML models to monitor crop health and predict yields by analyzing data from various sources like satellite imagery, sensors, and weather data.
    
 *Applications:*
@@ -30,10 +30,25 @@ Lab Activity 1: Overview of Machine Learning Applications
 ![health](https://github.com/user-attachments/assets/ea722f04-2162-439b-a4f7-da71249671d9)
 
 *Applications* 
-1. **Medical Imaging and Diagnosis**
+**Medical Imaging and Diagnosis**
+    ML algorithms, particularly deep learning models like convolutional neural networks (CNNs), are utilized to analyze medical images such as X-rays, MRIs, and CT scans.
 
 *Applications:*
 - **Disease Detection**: Early detection of diseases like cancer, Alzheimer's, and cardiovascular conditions by identifying subtle patterns and anomalies in imaging data.
 - **Improved Accuracy**: Reducing human error and increasing diagnostic accuracy by providing consistent and objective analysis.
 - **Workflow Efficiency**: Automating image analysis to speed up diagnosis processes and allow healthcare professionals to focus on patient care.
 
+# Ecommerce
+- eCommerce businesses accumulate a lot of data. Machine learning uses data to make business, demand, and growth predictions. The possible applications of the technology are truly limitless.
+
+![download (3)](https://github.com/user-attachments/assets/cf6ec07e-0ef6-4772-ac3a-9eb22ebb7001)
+![download (2)](https://github.com/user-attachments/assets/0b1bc9b1-6431-4807-821d-cb2a266e28b0)
+
+*Applications* 
+**Product Recommendations**
+    ML algorithms analyze user behavior, purchase history, and browsing patterns to suggest products that align with individual preferences.
+
+*Applications:*
+- **Collaborative Filtering**: Suggesting products based on the behaviors and preferences of similar users.
+- **Content-Based Filtering**: Recommending products similar to those a user has previously shown interest in.
+- **Hybrid Systems**: Combining multiple recommendation strategies to provide more accurate suggestions.
