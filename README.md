@@ -33,7 +33,7 @@ Lab Activity 1: Overview of Machine Learning Applications
 1. **Medical Imaging and Diagnosis**
 
 *Applications:*
--**Disease Detection**: Early detection of diseases like cancer, Alzheimer's, and cardiovascular conditions by identifying subtle patterns and anomalies in imaging data.
--**Improved Accuracy**: Reducing human error and increasing diagnostic accuracy by providing consistent and objective analysis.
--**Workflow Efficiency**: Automating image analysis to speed up diagnosis processes and allow healthcare professionals to focus on patient care.
+- **Disease Detection**: Early detection of diseases like cancer, Alzheimer's, and cardiovascular conditions by identifying subtle patterns and anomalies in imaging data.
+- **Improved Accuracy**: Reducing human error and increasing diagnostic accuracy by providing consistent and objective analysis.
+- **Workflow Efficiency**: Automating image analysis to speed up diagnosis processes and allow healthcare professionals to focus on patient care.
 
