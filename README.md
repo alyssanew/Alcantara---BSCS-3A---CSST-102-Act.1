@@ -1,8 +1,14 @@
 # Alcantara---BSCS-3A---CSST-102-Act.1
 Lab Activity 1: Overview of Machine Learning Applications
 
+
+
 # Machine Learning
- - Machine Learning (ML) is a subset of artificial intelligence (AI) that focuses on the development of algorithms and statistical models that enable computers to perform tasks without explicit instructions. Instead, these systems learn from data, identify patterns, and make decisions with minimal human intervention.
+
+
+https://github.com/user-attachments/assets/c149dec2-56d9-4747-9c09-ba051cdc8529
+
+- Machine Learning (ML) is a subset of artificial intelligence (AI) that focuses on the development of algorithms and statistical models that enable computers to perform tasks without explicit instructions. Instead, these systems learn from data, identify patterns, and make decisions with minimal human intervention.
    
 ![OIP](https://github.com/user-attachments/assets/48e0aeb4-ea28-41a4-85f3-96a6ac47399c)![download](https://github.com/user-attachments/assets/38a5fd3f-057f-4c2c-9545-68a3a7530e7c)
 
