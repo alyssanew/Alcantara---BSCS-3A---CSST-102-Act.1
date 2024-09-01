@@ -15,7 +15,9 @@ Lab Activity 1: Overview of Machine Learning Applications
 ![download (1)](https://github.com/user-attachments/assets/bef99335-8fed-4a92-8a50-137fce789c07)
 
 **Crop Monitoring and Yield Prediction**
-    Utilizing ML models to monitor crop health and predict yields by analyzing data from various sources like satellite imagery, sensors, and weather data.
+   - Utilizing ML models to monitor crop health and predict yields by analyzing data from various sources like satellite imagery, sensors, and weather data. 
+   - It's critical to be able to accurately detect and identify pests and illnesses in crops, as well as to anticipate when they will arrive. Models that can predict the onset of 
+       disease have been developed using long-term data analysis from weather stations and real-time meteorological data from unmanned observation aircraft.
    
 *Applications:*
  - **Disease and Pest Detection**: Early identification of crop diseases and pest infestations to implement timely interventions.
@@ -29,7 +31,10 @@ Lab Activity 1: Overview of Machine Learning Applications
 ![health](https://github.com/user-attachments/assets/ea722f04-2162-439b-a4f7-da71249671d9)
 
 **Medical Imaging and Diagnosis**
-    ML algorithms, particularly deep learning models like convolutional neural networks (CNNs), are utilized to analyze medical images such as X-rays, MRIs, and CT scans.
+    - ML algorithms, particularly deep learning models like convolutional neural networks (CNNs), are utilized to analyze medical images such as X-rays, MRIs, and CT scans. 
+    - Machine and deep learning algorithms are rapidly growing in dynamic research of medical imaging. Currently, substantial efforts are developed for the enrichment of medical imaging 
+        applications using these algorithms to diagnose the errors in disease diagnostic systems which may result in extremely ambiguous medical treatments. Machine and deep learning 
+        algorithms are important ways in medical imaging to predict the symptoms of early disease.
 
 *Applications:*
 - **Disease Detection**: Early detection of diseases like cancer, Alzheimer's, and cardiovascular conditions by identifying subtle patterns and anomalies in imaging data.
@@ -43,7 +48,8 @@ Lab Activity 1: Overview of Machine Learning Applications
 ![download (2)](https://github.com/user-attachments/assets/0b1bc9b1-6431-4807-821d-cb2a266e28b0)
  
 **Product Recommendations**
-    ML algorithms analyze user behavior, purchase history, and browsing patterns to suggest products that align with individual preferences.
+   - ML algorithms analyze user behavior, purchase history, and browsing patterns to suggest products that align with individual preferences.
+   - Thanks to machine learning implementation, customers can get timely predictions regarding their businesses, insight into customer behavior, and the ability to identify what influences their buying decisions, as well as how much inventory they need for the upcoming holiday season.
 
 *Applications:*
 - **Collaborative Filtering**: Suggesting products based on the behaviors and preferences of similar users.
