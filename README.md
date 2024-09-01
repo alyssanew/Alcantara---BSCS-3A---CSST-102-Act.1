@@ -55,3 +55,20 @@ Lab Activity 1: Overview of Machine Learning Applications
 - **Collaborative Filtering**: Suggesting products based on the behaviors and preferences of similar users.
 - **Content-Based Filtering**: Recommending products similar to those a user has previously shown interest in.
 - **Hybrid Systems**: Combining multiple recommendation strategies to provide more accurate suggestions.
+
+
+# References
+AGRICULTURE
+- https://l.facebook.com/l.php?u=https%3A%2F%2Findatalabs.com%2Fblog%2Fml-in-agriculture%3Ffbclid%3DIwZXh0bgNhZW0CMTAAAR2QiI6bf67D_u4WMLQJUq9w99eu-5Dc-mHcKoyY-Fm87_xyPTQYqexMEyI_aem_s64W71ZhQ6HVvw3DAS7cOA&h=AT2aYi-QlmetNjP3B0F89kuHoMRQPF8gsUmr3fETyLJiML63Xr4qst-JNXJCthhu9WLnRXv2eFq4C_y6c3BwK-icdRKr67KHzzfWvfWTNs956LOmeav6DdX4H9XbDCa8V0zyQSTId5ktcJI
+
+  
+- https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.mdpi.com%2F2077-0472%2F12%2F9%2F1350%3Ffbclid%3DIwZXh0bgNhZW0CMTAAAR1jb14bBVO-5kk0OCy70_Nk2HQGI87H8KXQIHGwvq8ogkVAc5xONaVH0ps_aem_i5I3qgylojl7HcFdY7oMjg&h=AT2B82K_Zt6OCWmfu071hthx5neZRi1dPk2MY6GfKgwuVlODh0RWG99AldfkAUgMUPnaAUeMD40iuNQAhTMjPGiv9AqrhI1kQZcdaX8lLbeopJZCNGfV4CdOb3vdfR3f_9lVjUXnhwm4zp0
+
+  
+HEALTHCARE
+- https://l.facebook.com/l.php?u=https%3A%2F%2Fbuiltin.com%2Fartificial-intelligence%2Fmachine-learning-healthcare%3Ffbclid%3DIwZXh0bgNhZW0CMTAAAR2QiI6bf67D_u4WMLQJUq9w99eu-5Dc-mHcKoyY-Fm87_xyPTQYqexMEyI_aem_s64W71ZhQ6HVvw3DAS7cOA&h=AT1u48IV3_iZYqXFwRhZyCrXSHqOfbp5ZGKTj4FZHymye0LTBQ42gsFwjcQ-BunsP29N0iwcSJdcCSKLzZWmATTAkWYsuPfpQo0kc4qpBnjXd2e-2TZwWWENjmjdY1VhkFaN
+
+- https://l.facebook.com/l.php?u=https%3A%2F%2Fieeexplore.ieee.org%2Fdocument%2F8673502%3Ffbclid%3DIwZXh0bgNhZW0CMTAAAR1pq6zc658PwzEV9hIvciwnuGSrbFLp6URGWKYfqZSTK5pUWG8D77G54Bs_aem_QX4mYtgHYmRnpUZbbeEmZg&h=AT10_1NpJD_nYdYt29x3nYxJB_LI0B6O2AjhfLEchRqpzEBgpC6rsq8tCHAwj2ln_WfRGMltoL8lfHBTg_c0qptMngAq-i5gxML1U2_HRoidYwYW_VasduNbOyiCZtgX-WILEZXn9uDs8og
+
+Ecommerce
+- https://mlsdev.com/blog/machine-learning-in-ecommerce
